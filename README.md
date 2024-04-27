@@ -1,5 +1,4 @@
-<H3>PAVANA.G</H3>
-<H3>212222230105</H3>
+
 <H3>EX. NO.6</H3>
 
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
@@ -19,6 +18,8 @@ Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 
 <H3>Program: </H3>
+<H3>DEVELOPED BY:PAVANA.G</H3>
+<H3>REGISTER NUMBER : 212222230105</H3>
 
 ```python
 import numpy as np
